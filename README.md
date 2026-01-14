@@ -17,7 +17,7 @@ A practical implementation of the fundamental **Reinforcement Learning** concept
 * [cite_start]**The Result:** The agent successfully converged to the optimal path (matching BFS steps) after ~300 episodes, demonstrating the "Trial and Error" learning process described in the abstract[cite: 7, 27].
 
 ## 🎥 Visualization
-![Agent Demo](demo_agent.gif)
+![Agent Demo](demo_agent.gif.gif)
 *(The Blue Agent learns to navigate around Black Obstacles to reach the Green Goal)*
 
 ## 🛠️ Tech Stack
