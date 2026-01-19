@@ -28,4 +28,4 @@ As discussed in the paper's section on **"NPC Decision-Making"**, RL agents can 
 ## 📂 Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/devanshuman01/Q-learning-pathfinding
+   git clone https://github.com/devanshuman01/Q-learning-pathfinding.git
